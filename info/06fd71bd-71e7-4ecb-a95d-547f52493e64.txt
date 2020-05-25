@@ -1,0 +1,17 @@
+06fd71bd-71e7-4ecb-a95d-547f52493e64
+Type: 
+Ski-Pass за кількістью підйомів ( Check by uphills )
+Price: 
+300.0
+Blocked: 
+false
+Uphills: 
+0
+Discount: 
+false
+VIP: 
+true
+Activation Date: 
+2020/05/24 20:26:09
+Expiration Date: 
+2020/05/24 20:26:09
